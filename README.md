@@ -78,7 +78,9 @@ Your task is to write the correct code in the `src/viking.js` file to make the t
 class Soldier {}
 
 // Viking
-class Viking {}
+class Viking {
+  
+}
 
 // Saxon
 class Saxon {}
